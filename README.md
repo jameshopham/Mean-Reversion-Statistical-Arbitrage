@@ -55,6 +55,6 @@ If you have any questions or suggestions, feel free to reach out to me:
 
 
 
-    <img src="./Images/1706388570200.jpeg" alt="James Hopham">
+    <img src="./images/1706388570200.jpeg" alt="James Hopham">
     <br>
     <a href="https://www.linkedin.com/in/james-hopham-2440352a5/" target="_blank">James Hopham</a>
