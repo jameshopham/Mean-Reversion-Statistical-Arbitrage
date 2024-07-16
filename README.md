@@ -25,7 +25,7 @@ This project was built with the following technologies:
 
 
 ## References
-Here is some of the literature that may be helpful:
+Here is some literature that may be helpful:
 
 1. Boguslavskaya, E., Boguslavsky, M., & Muravey, D. (2020). Trading Multiple Mean
 Reversion. Brunel University London, UK; TradeTeq, UK; Lomonosov State University,
