@@ -11,7 +11,7 @@ of the model to provide more robust models.
 
 ## Project Paper
 Here is a link to my paper covering an overview of the project background, methods, and results:
-https://github.com/jameshopham/Mean-Reversion-Statistical-Arbitrage/blob/main/WP2024.pdf
+https://navellier.com/wp-content/uploads/2024/03/StudyOnStatisticalArbitrage.pdf
 
 ### Built With
 
